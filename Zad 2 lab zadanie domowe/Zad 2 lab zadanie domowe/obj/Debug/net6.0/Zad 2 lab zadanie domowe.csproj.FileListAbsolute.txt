@@ -1,0 +1,15 @@
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\bin\Debug\net6.0\Zad 2 lab zadanie domowe.exe
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\bin\Debug\net6.0\Zad 2 lab zadanie domowe.deps.json
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\bin\Debug\net6.0\Zad 2 lab zadanie domowe.runtimeconfig.json
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\bin\Debug\net6.0\Zad 2 lab zadanie domowe.dll
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\bin\Debug\net6.0\Zad 2 lab zadanie domowe.pdb
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.csproj.AssemblyReference.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.AssemblyInfoInputs.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.AssemblyInfo.cs
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.dll
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\refint\Zad 2 lab zadanie domowe.dll
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.pdb
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\Zad 2 lab zadanie domowe.genruntimeconfig.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 lab zadanie domowe\Zad 2 lab zadanie domowe\obj\Debug\net6.0\ref\Zad 2 lab zadanie domowe.dll

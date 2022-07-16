@@ -1,0 +1,15 @@
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\bin\Debug\net6.0\Zad 2 laby sprawdzian.exe
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\bin\Debug\net6.0\Zad 2 laby sprawdzian.deps.json
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\bin\Debug\net6.0\Zad 2 laby sprawdzian.runtimeconfig.json
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\bin\Debug\net6.0\Zad 2 laby sprawdzian.dll
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\bin\Debug\net6.0\Zad 2 laby sprawdzian.pdb
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.csproj.AssemblyReference.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.AssemblyInfoInputs.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.AssemblyInfo.cs
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.csproj.CoreCompileInputs.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.dll
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\refint\Zad 2 laby sprawdzian.dll
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.pdb
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\Zad 2 laby sprawdzian.genruntimeconfig.cache
+C:\Users\Martyna\OneDrive\Pulpit\c\Zad 2 laby sprawdzian\Zad 2 laby sprawdzian\obj\Debug\net6.0\ref\Zad 2 laby sprawdzian.dll
